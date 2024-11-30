@@ -2,6 +2,13 @@
 
 ArpDetector is a Java-based application designed to monitor ARP packets in real-time. It provides a graphical interface inspired by Wireshark to detect potential ARP spoofing attacks in a local network.
 
+### Main Interface
+![Main Interface](Screenshots/main-interface.png)
+
+### Detection in Action
+![Detection Alert](Screenshots/detection-alert.png)
+
+
 ## Features
 
 - **Real-Time Packet Monitoring**: Capture and display ARP packets from selected network interfaces.
